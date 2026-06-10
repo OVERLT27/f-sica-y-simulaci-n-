@@ -1,2 +1,2 @@
-# f-sica-y-simulaci-n-
+# fisica-y-simulacion
 chambas 
